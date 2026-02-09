@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1770633368,,"wq!"
+|2,0,1770633449,,"wq!"
 :q!
 |2,0,1770632693,,"q!"
 
@@ -27,34 +27,42 @@
 # Registers:
 
 # File marks:
-'0  8  12  ~/vardhan
-|4,48,8,12,1770633368,"~/vardhan"
-'1  6  14  ~/vardhan
-|4,49,6,14,1770632743,"~/vardhan"
-'2  6  14  ~/vardhan
-|4,50,6,14,1770632743,"~/vardhan"
-'3  3  8  ~/vardhan
-|4,51,3,8,1770632693,"~/vardhan"
-'4  3  8  ~/vardhan
-|4,52,3,8,1770632693,"~/vardhan"
-'5  3  8  ~/vardhan
-|4,53,3,8,1770632693,"~/vardhan"
-'6  3  8  ~/vardhan
-|4,54,3,8,1770632693,"~/vardhan"
+'0  10  13  ~/vardhan
+|4,48,10,13,1770633449,"~/vardhan"
+'1  8  12  ~/vardhan
+|4,49,8,12,1770633368,"~/vardhan"
+'2  8  12  ~/vardhan
+|4,50,8,12,1770633368,"~/vardhan"
+'3  6  14  ~/vardhan
+|4,51,6,14,1770632743,"~/vardhan"
+'4  6  14  ~/vardhan
+|4,52,6,14,1770632743,"~/vardhan"
+'5  6  14  ~/vardhan
+|4,53,6,14,1770632743,"~/vardhan"
+'6  6  14  ~/vardhan
+|4,54,6,14,1770632743,"~/vardhan"
 '7  3  8  ~/vardhan
-|4,55,3,8,1770630119,"~/vardhan"
+|4,55,3,8,1770632693,"~/vardhan"
 '8  3  8  ~/vardhan
-|4,56,3,8,1770630119,"~/vardhan"
+|4,56,3,8,1770632693,"~/vardhan"
 '9  3  8  ~/vardhan
-|4,57,3,8,1770630119,"~/vardhan"
+|4,57,3,8,1770632693,"~/vardhan"
 
 # Jumplist (newest first):
+-'  10  13  ~/vardhan
+|4,39,10,13,1770633449,"~/vardhan"
+-'  8  12  ~/vardhan
+|4,39,8,12,1770633431,"~/vardhan"
 -'  8  12  ~/vardhan
 |4,39,8,12,1770633368,"~/vardhan"
 -'  6  14  ~/vardhan
 |4,39,6,14,1770633347,"~/vardhan"
 -'  6  14  ~/vardhan
+|4,39,6,14,1770633347,"~/vardhan"
+-'  6  14  ~/vardhan
 |4,39,6,14,1770632743,"~/vardhan"
+-'  3  8  ~/vardhan
+|4,39,3,8,1770632707,"~/vardhan"
 -'  3  8  ~/vardhan
 |4,39,3,8,1770632707,"~/vardhan"
 -'  3  8  ~/vardhan
@@ -71,15 +79,18 @@
 |4,39,1,0,1770630086,"~/vardhan"
 -'  1  0  ~/vardhan
 |4,39,1,0,1770630086,"~/vardhan"
+-'  1  0  ~/vardhan
+|4,39,1,0,1770630086,"~/vardhan"
 
 # History of marks within files (newest to oldest):
 
 > ~/vardhan
-	*	1770633364	0
-	"	8	12
-	^	8	13
-	.	8	12
+	*	1770633445	0
+	"	10	13
+	^	10	14
+	.	10	13
 	+	3	9
 	+	6	14
-	+	9	0
+	+	11	0
 	+	8	12
+	+	10	13
